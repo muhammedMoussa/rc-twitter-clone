@@ -1,3 +1,8 @@
 * {
   margin: 0;
 }
+
+body {
+  --primary: #50b7f5;
+  --bg: #e6ecf0
+}
