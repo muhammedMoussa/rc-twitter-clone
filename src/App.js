@@ -8,7 +8,6 @@ import Widgets from './components/Widgets/Widgets';
 function App() {
   return (
     <div className="App">
-      Twitter Clone
       { /* SIDEBAR */ }
       <Sidebar/>
 
